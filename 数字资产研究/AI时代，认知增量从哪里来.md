@@ -3,7 +3,7 @@ title: AI时代，认知增量从哪里来
 slug: where-does-cognitive-increment-come-from-in-the-ai-era
 excerpt: 当AI可以快速调用、总结和重组已有知识以后，真正稀缺的已经不是表达，而是认知增量。新的认识往往来自真实世界的新信号、异常、反例、实验、跨领域连接，以及对问题本身的重新定义。
 categories:
-  - 创作者研究
+  - 数字资产研究
 tags:
   - AI
   - 认知增量

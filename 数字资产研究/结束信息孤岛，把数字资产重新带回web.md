@@ -1,5 +1,5 @@
 ---
-title: 结束信息孤岛，把数字资产重新带回 Web
+title: 结束信息孤岛，把数字资产重新带回web
 slug: end-information-silos-bring-digital-assets-back-to-the-web
 excerpt: 平台、SaaS、账号和封闭生态让个人与企业拥有了越来越多数字资产，也制造了越来越多彼此割裂的信息孤岛。下一代数字基础设施，可能需要重新让身份、内容、知识、产品和关系拥有自己的 Web 原点。
 categories:
@@ -13,7 +13,7 @@ tags:
 status: draft
 ---
 
-# 结束信息孤岛，把数字资产重新带回 Web
+# 结束信息孤岛，把数字资产重新带回web
 
 过去二十年，互联网解决了一个巨大的问题：
 
