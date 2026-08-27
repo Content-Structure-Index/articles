@@ -1,6 +1,6 @@
 ---
 categories:
-- 创作者研究
+- AI研究
 excerpt: AI降低了软件开发门槛，但也带来了新的挑战：越来越多人可以创造软件，却未必经历过完整的软件工程训练。
 slug: ai-era-programmers-biggest-crisis
 status: draft

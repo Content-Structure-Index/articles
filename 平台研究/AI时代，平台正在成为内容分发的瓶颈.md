@@ -3,7 +3,7 @@ title: AI时代，平台正在成为内容分发的瓶颈
 slug: platforms-becoming-content-distribution-bottleneck
 excerpt: AI正在把内容生产速度推到一个前所未有的水平，但人的注意力、平台的推荐机制和账号的有效发布窗口并没有同步扩张。内容行业正在从“生产瓶颈”转向“分发瓶颈”。
 categories:
-  - 下一代内容基础设施
+  - 平台研究
 tags:
   - AI
   - 内容分发

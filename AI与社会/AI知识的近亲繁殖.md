@@ -3,7 +3,7 @@ title: AI知识的近亲繁殖
 slug: ai-knowledge-inbreeding
 excerpt: 当越来越多AI内容继续被AI搜索、总结、改写、引用甚至用于后续训练时，知识系统可能进入一个不断自我循环的闭环。真正的风险不是AI停止生成，而是知识来源越来越相似、错误被反复复制、边缘经验逐渐消失，最终形成“AI知识的近亲繁殖”。
 categories:
-  - 创作者研究
+  - AI与社会
 tags:
   - AI
   - 知识生产
